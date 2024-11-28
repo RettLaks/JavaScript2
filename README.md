@@ -55,4 +55,4 @@ JavaScript
 
 ## Forventet resultat
 
-![Image_1](./Bilder/Nettside.png)
+![Image_1](./Bilder/Nettside.png)# JavaScript-If-else2
